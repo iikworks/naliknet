@@ -1,0 +1,16 @@
+{
+    "name": "nalikco/naliknet",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "NalikCo\\NalikNet\\": "src/NalikCo/NalikNet"
+        }
+    },
+    "authors": [
+        {
+            "name": "Igor Karplyuk",
+            "email": "johndevice834@gmail.com"
+        }
+    ],
+    "require": {}
+}
